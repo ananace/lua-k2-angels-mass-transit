@@ -1,0 +1,11 @@
+{
+  "name": "k2-angels-mass-transit",
+  "version": "0.0.1",
+  "title": "Krastorio2 - Angel's Mass Transit compatibility",
+  "author": "Ananace",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "Krastorio2 <= 1.3.24",
+    "angelsaddons-mobility"
+  ]
+}
